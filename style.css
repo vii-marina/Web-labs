@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #4c5caf;
+}
+
+button {
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.textEntry {
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.menu-item {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+}
